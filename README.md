@@ -30,12 +30,5 @@ Convertirme en un desarrollador capaz de construir sistemas útiles reales.
 
 ---
 
-## 📊 Estadísticas
-
-![Stats](https://github-readme-stats.vercel.app/api?username=JaimePadrino&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaimePadrino)
-
----
-
 ## 📫 Contacto
 GitHub: github.com/JaimePadrino
