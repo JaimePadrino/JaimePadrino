@@ -16,6 +16,7 @@ Soy estudiante apasionado por la programación, la inteligencia artificial y la 
 - JavaScript
 - Git & GitHub
 - IA local (Ollama, modelos LLM)
+- OpenCode GO
 
 ---
 
