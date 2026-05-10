@@ -6,7 +6,7 @@ Estudiante apasionado por la programación, la inteligencia artificial y el desa
 - Python
 - JavaScript
 - Git / GitHub
-- Inteligencia Artificial (Ollama, modelos locales)
+- Inteligencia Artificial (Ollama, modelos locales y OpenCode)
 
 ## Proyectos actuales
 - Asistente local tipo Jarvis con Python y voz
@@ -16,4 +16,4 @@ Estudiante apasionado por la programación, la inteligencia artificial y el desa
 Seguir mejorando como desarrollador y construir sistemas útiles que pueda usar en mi día a día.
 
 ## Contacto
-GitHub: github.com/jlipiuchx
+GitHub: github.com/JaimePadrino
