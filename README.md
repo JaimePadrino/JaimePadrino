@@ -1,19 +1,34 @@
-# Jaime Padrino
+# 👋 Hola, soy Jaime Padrino
 
-Estudiante apasionado por la programación, la inteligencia artificial y el desarrollo de proyectos personales.
+Soy estudiante apasionado por la programación, la inteligencia artificial y la creación de proyectos personales.
 
-## Tecnologías
+---
+
+## 🧠 Sobre mí
+- 🔭 Actualmente estoy trabajando en proyectos de IA (tipo asistente personal)
+- 📚 Aprendiendo Python, automatización y sistemas inteligentes
+- 💪 Me gusta mejorar cada día como desarrollador
+
+---
+
+## ⚙️ Tecnologías que uso
 - Python
 - JavaScript
-- Git / GitHub
-- Inteligencia Artificial (Ollama, modelos locales y OpenCode)
+- Git & GitHub
+- IA local (Ollama, modelos LLM)
 
-## Proyectos actuales
-- Asistente local tipo Jarvis con Python y voz
-- Automatización de tareas y herramientas personales
+---
 
-## Objetivo
-Seguir mejorando como desarrollador y construir sistemas útiles que pueda usar en mi día a día.
+## 🚀 Proyectos
+- 🤖 Asistente tipo Jarvis en local (Python + voz)
+- 🧪 Experimentos con IA y automatización
 
-## Contacto
+---
+
+## 🎯 Objetivo
+Convertirme en un desarrollador capaz de construir sistemas útiles reales.
+
+---
+
+## 📫 Contacto
 GitHub: github.com/JaimePadrino
